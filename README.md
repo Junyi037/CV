@@ -1,2 +1,2 @@
-# FDU
-课程项目
+# Test
+It's just a test.
